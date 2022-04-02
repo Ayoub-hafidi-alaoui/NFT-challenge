@@ -9,7 +9,7 @@ interface Props {
   collections: Collection[]
 }
 
-const Home: NextPage = ({collections}: Props) => {
+const Home = ({collections}: Props) => {
 
   
 
